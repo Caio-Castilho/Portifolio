@@ -1,14 +1,14 @@
-<h1 align="center">NPS-NLW</h1>
+<h1 align="center">Portifólio</h1>
 
 This is my webportifolio with various links to my available projects.
 Links
 
-<p align="center">
+<p align="left">
 #C/C++ : Pastas
 </p>
     Estrutura de Dados 1
     Estrutura de Dados 2
-<p align="center">
+<p align="left">
 #Java : Pastas
 </p>
     AppAdega
@@ -21,13 +21,13 @@ Links
     Paciente
     Tributacao + formas 2D
     Voo
-<p align="center">
+<p align="left">
 #JavaFX : Pastas
 </p>
     ImageFX
     PiadasFX
     ParkingFX
-<p align="center">
+<p align="left">
 #python : Pastas
 </p>
     CadastroHospitalar
