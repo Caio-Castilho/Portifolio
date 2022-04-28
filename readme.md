@@ -6,11 +6,13 @@ Links
 <p align="left">
 #C/C++ : Pastas
 </p>
+
     Estrutura de Dados 1
     Estrutura de Dados 2
 <p align="left">
 #Java : Pastas
 </p>
+
     AppAdega
     CalculatorFX
     Entregadores
@@ -24,16 +26,19 @@ Links
 <p align="left">
 #JavaFX : Pastas
 </p>
+
     ImageFX
     PiadasFX
     ParkingFX
 <p align="left">
 #python : Pastas
 </p>
+
     CadastroHospitalar
     Entregadores
     ProjetoEntrevista
-
+<p align="left">
 #React NodeJS : Pastas
+</p>
 
     WEB
