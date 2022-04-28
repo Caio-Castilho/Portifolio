@@ -1,7 +1,6 @@
 <h1 align="center">Portifólio</h1>
 
 This is my webportifolio with various links to my available projects.
-Links
 
 <p align="left">
 #C/C++ : Pastas
