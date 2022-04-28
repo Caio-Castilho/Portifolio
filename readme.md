@@ -1,14 +1,14 @@
-Portifolio
+#Portifolio
 
 This is my webportifolio with various links to my available projects.
 Links
 
-C/C++ : Pastas
+#C/C++ : Pastas
 
     Estrutura de Dados 1
     Estrutura de Dados 2
 
-Java : Pastas
+#Java : Pastas
 
     AppAdega
     CalculatorFX
@@ -21,18 +21,18 @@ Java : Pastas
     Tributacao + formas 2D
     Voo
 
-JavaFX : Pastas
+#JavaFX : Pastas
 
     ImageFX
     PiadasFX
     ParkingFX
 
-python : Pastas
+#python : Pastas
 
     CadastroHospitalar
     Entregadores
     ProjetoEntrevista
 
-React NodeJS : Pastas
+#React NodeJS : Pastas
 
     WEB
